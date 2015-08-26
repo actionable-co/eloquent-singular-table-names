@@ -1,0 +1,19 @@
+{
+    "name": "martinbean/eloquent-singular-table-names",
+    "description": "Makes Eloquent models use singular (rather than plural) table names by default.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Bean",
+            "email": "martin@martinbean.co.uk"
+        }
+    ],
+    "require": {
+        "illuminate/database": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MartinBean\\Database\\Eloquent\\": "src/"
+        }
+    }
+}
