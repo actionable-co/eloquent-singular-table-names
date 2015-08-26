@@ -35,8 +35,6 @@ abstract class SingularModel extends Model
 ```php
 namespace App;
 
-use Illuminate\Database\Eloquent\Model;
-
 class User extends SingularModel
 {
     // No need to implement trait
