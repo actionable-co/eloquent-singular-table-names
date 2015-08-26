@@ -2,6 +2,8 @@
 
 namespace MartinBean\Database\Eloquent;
 
+use Illuminate\Support\Str;
+
 trait SingularTableName
 {
     /**
