@@ -1,16 +1,16 @@
 {
-    "name": "martinbean/eloquent-singular-table-names",
+    "name": "actionable-co/eloquent-singular-table-names",
     "description": "Makes Eloquent models use singular (rather than plural) table names by default.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Martin Bean",
-            "email": "martin@martinbean.co.uk"
+            "name": "Shawn Hooper",
+            "email": "shawn@actionable.co"
         }
     ],
     "require": {
-        "illuminate/database": "~5.0",
-        "illuminate/support": "~5.0"
+        "illuminate/database": "~6.0",
+        "illuminate/support": "~6.0"
     },
     "autoload": {
         "psr-4": {
